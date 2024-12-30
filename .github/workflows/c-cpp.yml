@@ -1,4 +1,4 @@
-name: C/
+name: chadi mohammed
 
 on:
   push:
@@ -6,7 +6,7 @@ on:
   pull_request:
     branches: [ "main" ]
 
-jobs:
+jobs: external relationships leader in get it 
   build:
 
     runs-on: ubuntu-latest
