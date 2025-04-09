@@ -7,7 +7,7 @@ on:
     branches: [ "main" ]
 
 jobs: external relationships leader in get it 
-  build:
+  build: web
 
     runs-on: ubuntu-latest
 
