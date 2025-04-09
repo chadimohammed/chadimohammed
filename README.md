@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chadimohammed
 - 👀 I’m interested in IT /Scientific club /
-- 🌱 I’m currently learning c and will learn python after 
+- 🌱 I’m currently learning c , html , javascript and will learn python ,css after 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me mimichadi9@gmail.com
 - 😄 Pronouns: he\him 
